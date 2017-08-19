@@ -1,0 +1,11 @@
+<dubbo:service ref="dubboGroupService1" interface="com.yncp.dubbo.service.IDubboGroupService" protocol="dubbo,rmi" group="feedback" />
+
+<dubbo:service ref="dubboGroupService2" interface="com.yncp.dubbo.service.IDubboGroupService" protocol="dubbo,rmi" group="member" />
+
+ 
+
+<dubbo:reference id="groupservice1" interface="com.yncp.dubbo.service.IDubboGroupService" protocol="dubbo" group="feedback" />
+
+<dubbo:reference id="groupservice2" interface="com.yncp.dubbo.service.IDubboGroupService" protocol="dubbo" group="member" />
+
+<dubbo:reference id="groupservice3" interface="com.yncp.dubbo.service.IDubboGroupService" protocol="dubbo" group="*" />

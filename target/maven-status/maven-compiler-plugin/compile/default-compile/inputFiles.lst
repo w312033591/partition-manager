@@ -1,0 +1,16 @@
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\register\PartitionEntity.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\util\MethodUtil.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\bean\MatchRange.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\util\StringLenFixUtil.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\util\HibernateConnectionHelper.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\PartitionManager.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\dao\PartitionDaoFactory.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\dao\BaseDao.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\dao\impl\HibernateBaseDaoImpl.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\register\PartitionRouter.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\annotation\DaoMethod.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\exception\IllegalSqlException.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\register\dialectimpl\MysqlPartitionEntity.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\util\FieldMappingUtil.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\exception\PartitionException.java
+E:\WorkSpace20161122\partition-manager\src\main\java\com\hty\partition\dao\BaseDaoInvocationHandler.java
